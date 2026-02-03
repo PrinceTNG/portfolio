@@ -1,18 +1,28 @@
 <div align="center">
 
-# 🌐 Prince Mthethwa - Professional Portfolio
+<img src="images/profile.png" alt="Prince Mthethwa" width="150" style="border-radius: 50%;">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+# 👨‍💻 Prince Mthethwa
+
+### Computer Systems Engineer | Full Stack Developer | Embedded Systems Specialist
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-success?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceTNG)
+[![Stars](https://img.shields.io/github/stars/PrinceTNG?style=for-the-badge&logo=github)](https://github.com/PrinceTNG?tab=repositories)
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Responsive](https://img.shields.io/badge/Responsive-Design-00C7B7?style=for-the-badge&logo=responsive&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-00C7B7?style=for-the-badge)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+[![Mobile Optimized](https://img.shields.io/badge/Mobile-Optimized-4A90E2?style=for-the-badge&logo=mobile)](https://developers.google.com/web/fundamentals/design-and-ux/responsive)
 
-*A modern, responsive portfolio website showcasing my expertise in Computer Systems Engineering, Web Development, and Embedded Systems.*
+**A modern, responsive portfolio website showcasing expertise in Computer Systems Engineering, Web Development, and Embedded Systems.**
 
-[🚀 View Live](https://your-portfolio-url.vercel.app) • [📧 Contact Me](mailto:mthethwaprince10@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
+*Building innovative solutions that bridge hardware and software*
 
-![Portfolio Preview](images/profile.png)
+[🚀 View Live Site](https://your-portfolio-url.vercel.app) • [📧 Get in Touch](mailto:mthethwaprince10@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
+
+---
 
 </div>
 
@@ -45,15 +55,17 @@ I'm **Prince Mthethwa**, a Computer Systems Engineer specializing in:
 
 ```
 portfolio/
-├── index.html              # Main HTML file
-├── css/
-│   └── styles.css         # All styles (variables, components, animations)
-├── js/
-│   └── app.js             # JavaScript functionality
-├── images/
-│   └── profile.png        # Profile image and assets
-├── Prince_Lunga_Mthethwa_Resume.pdf   # Downloadable resume
-└── vercel.json            # Vercel deployment configuration
+├── 📄 index.html                         # Main HTML file
+├── 📁 css/
+│   └── 🎨 styles.css                    # Complete styling (variables, components, animations)
+├── 📁 js/
+│   └── ⚡ app.js                         # Interactive features & functionality
+├── 📁 images/
+│   └── 🖼️ profile.png                   # Profile image and visual assets
+├── 📄 Prince_Lunga_Mthethwa_Resume.pdf  # Downloadable professional resume
+├── ⚙️ vercel.json                        # Deployment configuration
+├── 📋 README.md                          # Project documentation
+└── 🚫 .gitignore                         # Git ignore rules
 ```
 
 ## 🎨 Sections
