@@ -194,9 +194,9 @@ If you like this portfolio design, please consider giving it a star!
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PrinceTNG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
 
-**Built with ❤️ by Prince Mthethwa**
+*Developed by Prince Mthethwa*
 
-*Computer Systems Engineer | Full Stack Developer | Embedded Systems Specialist*
+Computer Systems Engineer | Full Stack Developer | Embedded Systems Specialist
 
 ![Profile Views](https://komarev.com/ghpvc/?username=PrinceTNG&color=blueviolet&style=flat-square)
 
