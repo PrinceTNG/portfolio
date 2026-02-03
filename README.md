@@ -1,11 +1,20 @@
-# Prince Mthethwa - Professional Portfolio
+<div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://your-portfolio-url.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
+# 🌐 Prince Mthethwa - Professional Portfolio
 
-> A modern, responsive portfolio website showcasing my expertise in Computer Systems Engineering, Web Development, and Embedded Systems.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Responsive](https://img.shields.io/badge/Responsive-Design-00C7B7?style=for-the-badge&logo=responsive&logoColor=white)](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design)
+
+*A modern, responsive portfolio website showcasing my expertise in Computer Systems Engineering, Web Development, and Embedded Systems.*
+
+[🚀 View Live](https://your-portfolio-url.vercel.app) • [📧 Contact Me](mailto:mthethwaprince10@gmail.com) • [💼 LinkedIn](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
 
 ![Portfolio Preview](images/profile.png)
+
+</div>
 
 ## 👨‍💻 About
 
@@ -168,6 +177,27 @@ This portfolio is for personal use and showcases my professional work. Feel free
 
 ---
 
+<div align="center">
+
+## ⭐ Show Your Support
+
+If you like this portfolio design, please consider giving it a star!
+
+[![GitHub stars](https://img.shields.io/github/stars/PrinceTNG/portfolio?style=social)](https://github.com/PrinceTNG/portfolio/stargazers)
+
+---
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mthethwaprince10@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PrinceTNG)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+
 **Built with ❤️ by Prince Mthethwa**
 
 *Computer Systems Engineer | Full Stack Developer | Embedded Systems Specialist*
+
+![Profile Views](https://komarev.com/ghpvc/?username=PrinceTNG&color=blueviolet&style=flat-square)
+
+</div>
