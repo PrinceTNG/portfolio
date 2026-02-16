@@ -34,6 +34,7 @@ class App {
         this.cacheDOM();
         this.bindEvents();
         this.initLoader();
+        this.initTheme();
         this.initTypewriter();
         this.initCursor();
         this.initScrollAnimations();
@@ -49,6 +50,8 @@ class App {
         this.navbar = document.getElementById('navbar');
         this.navToggle = document.getElementById('navToggle');
         this.navMenu = document.getElementById('navMenu');
+        this.navOverlay = document.getElementById('navOverlay');
+        this.themeToggle = document.getElementById('themeToggle');
         this.navLinks = document.querySelectorAll('.nav-link');
         this.sections = document.querySelectorAll('section');
         this.skillTabs = document.querySelectorAll('.tab-btn');
@@ -71,6 +74,15 @@ class App {
 
         // Navigation
         this.navToggle.addEventListener('click', this.toggleMobileNav.bind(this));
+        if (this.navOverlay) {
+            this.navOverlay.addEventListener('click', this.closeMobileNav.bind(this));
+        }
+        
+        // Theme Toggle
+        if (this.themeToggle) {
+            this.themeToggle.addEventListener('click', this.toggleTheme.bind(this));
+        }
+        
         this.navLinks.forEach(link => {
             link.addEventListener('click', this.handleNavClick.bind(this));
         });
@@ -90,6 +102,53 @@ class App {
             el.addEventListener('mouseenter', () => this.cursorFollower?.classList.add('hover'));
             el.addEventListener('mouseleave', () => this.cursorFollower?.classList.remove('hover'));
         });
+    }
+
+    // ===== Theme Toggle =====
+    initTheme() {
+        // Check for saved theme preference or use system preference
+        const savedTheme = localStorage.getItem('theme');
+        const systemPrefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        
+        if (savedTheme === 'dark' || (!savedTheme && systemPrefersDark)) {
+            this.applyTheme('dark');
+        } else {
+            this.applyTheme('light');
+        }
+        
+        // Listen for system theme changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+            if (!localStorage.getItem('theme')) {
+                this.applyTheme(e.matches ? 'dark' : 'light');
+            }
+        });
+    }
+    
+    toggleTheme() {
+        const isDark = document.body.classList.contains('dark-mode');
+        const newTheme = isDark ? 'light' : 'dark';
+        this.applyTheme(newTheme);
+    }
+    
+    applyTheme(theme) {
+        const icon = this.themeToggle?.querySelector('i');
+        
+        if (theme === 'dark') {
+            document.body.classList.add('dark-mode');
+            if (icon) {
+                icon.classList.remove('fa-moon');
+                icon.classList.add('fa-sun');
+            }
+        } else {
+            document.body.classList.remove('dark-mode');
+            if (icon) {
+                icon.classList.remove('fa-sun');
+                icon.classList.add('fa-moon');
+            }
+        }
+        
+        // Save preference to localStorage
+        localStorage.setItem('theme', theme);
     }
 
     // ===== Loader =====
@@ -298,11 +357,17 @@ class App {
     toggleMobileNav() {
         this.navToggle.classList.toggle('active');
         this.navMenu.classList.toggle('active');
+        if (this.navOverlay) {
+            this.navOverlay.classList.toggle('active');
+        }
     }
 
     closeMobileNav() {
         this.navToggle.classList.remove('active');
         this.navMenu.classList.remove('active');
+        if (this.navOverlay) {
+            this.navOverlay.classList.remove('active');
+        }
     }
 
     handleResize() {
