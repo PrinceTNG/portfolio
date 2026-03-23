@@ -6,7 +6,7 @@
 
 ### Computer Systems Engineer | Full Stack Developer | Embedded Systems Specialist
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-success?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live_Site-success?style=for-the-badge&logo=vercel&logoColor=white)](https://prince-mthethwa-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PrinceTNG)
 [![Stars](https://img.shields.io/github/stars/PrinceTNG?style=for-the-badge&logo=github)](https://github.com/PrinceTNG?tab=repositories)
 
@@ -20,7 +20,7 @@
 
 *Building innovative solutions that bridge hardware and software*
 
-[🚀 View Live Site](https://your-portfolio-url.vercel.app) • [📧 Get in Touch](mailto:mthethwaprince10@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
+[🚀 View Live Site](https://prince-mthethwa-portfolio.vercel.app) • [📧 Get in Touch](mailto:mthethwaprince10@gmail.com) • [💼 Connect on LinkedIn](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
 
 ---
 
@@ -103,7 +103,7 @@ The portfolio is fully responsive and optimized for:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/portfolio.git
+   git clone https://github.com/PrinceTNG/portfolio.git
    cd portfolio
    ```
 
@@ -157,7 +157,7 @@ vercel
 
 ## 📄 License
 
-© 2025 Prince Mthethwa. All rights reserved.
+© 2026 Prince Mthethwa. All rights reserved.
 
 This portfolio is for personal use and showcases my professional work. Feel free to use it as inspiration for your own portfolio, but please give appropriate credit.
 
@@ -204,7 +204,7 @@ If you like this portfolio design, please consider giving it a star!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/prince-mthethwa-454b95316/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mthethwaprince10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/PrinceTNG)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://your-portfolio-url.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://prince-mthethwa-portfolio.vercel.app)
 
 *Developed by Prince Mthethwa*
 
